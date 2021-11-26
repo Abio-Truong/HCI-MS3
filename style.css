@@ -186,6 +186,7 @@ H2 {
 }
 
 #bubble .addOrder {
+	text-decoration: none;
 	width: 78em;
 }
 
