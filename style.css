@@ -199,6 +199,10 @@ H2 {
 	width: 16em;
 }
 
+#bubble .content .mealType {
+	transform: translate(0, -1.2em);
+}
+
 #bubble .content .orderSource {
 	float: left;
 	transform: translate(1em, -1em);
